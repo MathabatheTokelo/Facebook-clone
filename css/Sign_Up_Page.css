@@ -1,0 +1,165 @@
+body{
+    background-color: #3a599ce7;
+    
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: helvetica;
+    color: white; 
+}
+
+
+
+#emailone {
+    height: 15px;
+    width: 100px;
+    border: none;
+    border-width: 0;
+    outline: none;
+    resize: none;
+    font-size: 13px;
+    border-radius: 3px;
+ 
+}
+
+#passwordone {
+    margin-right: 90px;
+    height: 15px;
+    width: 170px;
+    border: none;
+    border-width: 0;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+}
+
+#linkone{
+    color: white;
+    font-size: 12px;
+    margin-left: -130px;
+}
+#button{
+    height: 25px;
+    width: 135px;
+    background-color: rgb(65, 65, 167); 
+    color: white;
+    border: none;
+    border-width: 0;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -70px;
+} 
+
+
+h1 {
+    margin-right: 250px;
+    font-size: 60px;
+    margin-top: 6px ;
+    
+}
+
+#one {
+    font-size: 30px;
+    margin-left: -110px;
+    margin-top: -20px;
+}
+
+#first{
+    height: 20px;
+    width: 140px;
+    color: black; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -170px;
+}
+#last{
+    height: 20px;
+    width: 140px;
+    color: black; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+}
+
+#email{
+    height: 20px;
+    width: 290px;
+    color: black; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -170px;
+}
+
+#password{ height: 20px;
+    width: 290px;
+    color: black; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -170px;
+}
+
+#repassword{
+    height: 20px;
+    width: 290px;
+    color: black; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -170px;
+}
+label{
+    margin-left: -400px;
+}
+
+#date{
+    height: 27px;
+    width: 145px;
+    color: black; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -320px;  
+}
+#mal{
+    margin-left: 10px;
+}
+#Male{
+    margin-left: 50px; 
+}
+
+#terms{
+    font-size: 11px;
+    color: rgb(231, 231, 231);
+    margin-left: -200px; 
+}
+
+
+
+#Submit{
+    height: 40px;
+    width: 290px;
+    background-color: rgba(45, 153, 69, 0.692); 
+    color: white; 
+    border: none;
+    border-width: 0px;
+    outline: none;
+    resize: none;
+    border-radius: 3px;
+    margin-left: -170px; 
+}
